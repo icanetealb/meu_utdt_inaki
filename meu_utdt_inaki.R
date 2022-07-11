@@ -1,0 +1,5 @@
+library(tidyverse)
+install.packages("readr")
+library(readr)
+  read_csv(file = "data/pc_proy21_finfun.csv", stringsAsfactor = TRUE )
+head(pc_proy21_finfun.csv)

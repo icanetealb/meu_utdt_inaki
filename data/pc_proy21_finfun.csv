@@ -1,0 +1,210 @@
+﻿Código Jurisdicción,Descripción Jurisdicción,Código Subjurisdicción,Descripción Subjurisdicción,Código Entidad,Descripción Entidad,Código Finalidad Función,Descripción Finalidad Función,Crédito 2021
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,0,Poder Legislativo Nacional,1.1,Legislativa,32857846363
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,0,Poder Legislativo Nacional,1.2,Judicial,861503000
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,0,Poder Legislativo Nacional,1.7,Control de la Gestión Pública,123680250
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,0,Poder Legislativo Nacional,3.1,Salud,2960186243
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,0,Poder Legislativo Nacional,3.4,Educación y Cultura,3470010035
+1,Poder Legislativo Nacional,0,Poder Legislativo Nacional,1,Auditoría General de la Nación,1.7,Control de la Gestión Pública,4435945273
+5,Poder Judicial de la Nación,0,Poder Judicial de la Nación,0,Poder Judicial de la Nación,1.2,Judicial,81459542649
+5,Poder Judicial de la Nación,0,Poder Judicial de la Nación,0,Poder Judicial de la Nación,3.3,Seguridad Social,259086000
+10,Ministerio Público,0,Ministerio Público,0,Ministerio Público,1.2,Judicial,36059411716
+20,Presidencia de la Nación,0,Presidencia de la Nación,109,Sindicatura General de la Nación,1.7,Control de la Gestión Pública,1223552364
+20,Presidencia de la Nación,0,Presidencia de la Nación,112,Autoridad Regulatoria Nuclear,4.1,"Energía, Combustibles y Minería",1292994591
+20,Presidencia de la Nación,0,Presidencia de la Nación,917,Agencia Nacional de Discapacidad,3.1,Salud,36864519815
+20,Presidencia de la Nación,0,Presidencia de la Nación,917,Agencia Nacional de Discapacidad,3.2,Promoción y Asistencia Social,1564929632
+20,Presidencia de la Nación,0,Presidencia de la Nación,917,Agencia Nacional de Discapacidad,3.3,Seguridad Social,199076211901
+20,Presidencia de la Nación,0,Presidencia de la Nación,917,Agencia Nacional de Discapacidad,3.4,Educación y Cultura,4530000
+20,Presidencia de la Nación,1,Secretaría General,0,Secretaría General,1.3,Dirección Superior Ejecutiva,15192402529
+20,Presidencia de la Nación,2,Secretaría Legal y Técnica,0,Secretaría Legal y Técnica,1.3,Dirección Superior Ejecutiva,609376237
+20,Presidencia de la Nación,8,Agencia Federal de Inteligencia,0,Agencia Federal de Inteligencia,2.4,Inteligencia,3518740505
+20,Presidencia de la Nación,16,Consejo Nacional de Coordinación de Políticas Sociales,0,Consejo Nacional de Coordinación de Políticas Sociales,3.2,Promoción y Asistencia Social,1069862000
+20,Presidencia de la Nación,17,Secretaría de Comunicación y Prensa,0,Secretaría de Comunicación y Prensa,1.3,Dirección Superior Ejecutiva,779702382
+25,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,205,Agencia de Administración de Bienes del Estado,1.6,Administración Fiscal,1026115000
+25,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,207,Ente Nacional de Comunicaciones,4.2,Comunicaciones,3967419989
+25,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,209,Agencia de Acceso a la Información Pública,1.3,Dirección Superior Ejecutiva,81158294
+25,Jefatura de Gabinete de Ministros,1,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,1.3,Dirección Superior Ejecutiva,3699855059
+25,Jefatura de Gabinete de Ministros,1,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,1.6,Administración Fiscal,86663941
+25,Jefatura de Gabinete de Ministros,1,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,3.2,Promoción y Asistencia Social,182586187
+25,Jefatura de Gabinete de Ministros,1,Jefatura de Gabinete de Ministros,0,Jefatura de Gabinete de Ministros,3.4,Educación y Cultura,130000000
+25,Jefatura de Gabinete de Ministros,2,Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina (SEDRONAR),0,Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina (SEDRONAR),3.2,Promoción y Asistencia Social,3155134395
+25,Jefatura de Gabinete de Ministros,3,Secretaría de Medios y Comunicación Pública,0,Secretaría de Medios y Comunicación Pública,1.3,Dirección Superior Ejecutiva,4239039854
+25,Jefatura de Gabinete de Ministros,4,Secretaría de Innovación Pública,0,Secretaría de Innovación Pública,1.3,Dirección Superior Ejecutiva,2147973556
+25,Jefatura de Gabinete de Ministros,4,Secretaría de Innovación Pública,0,Secretaría de Innovación Pública,4.2,Comunicaciones,2755057086
+30,Ministerio del Interior,0,Ministerio del Interior,0,Ministerio del Interior,1.5,Relaciones Interiores,50346694026
+30,Ministerio del Interior,0,Ministerio del Interior,0,Ministerio del Interior,1.8,Información y Estadística Básicas,138393218
+30,Ministerio del Interior,0,Ministerio del Interior,0,Ministerio del Interior,3.2,Promoción y Asistencia Social,3000000000
+30,Ministerio del Interior,0,Ministerio del Interior,200,Registro Nacional de las Personas,1.5,Relaciones Interiores,7475449960
+30,Ministerio del Interior,0,Ministerio del Interior,201,Dirección Nacional de Migraciones,1.5,Relaciones Interiores,8713768248
+35,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",1.4,Relaciones Exteriores,36007052136
+35,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",0,"Ministerio de Relaciones Exteriores, Comercio Internacional y Culto",3.5,Ciencia y Técnica,368050862
+40,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,118,Instituto Nacional de Asuntos Indígenas,1.2,Judicial,289507000
+40,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,202,"Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo",1.2,Judicial,330380800
+40,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,206,Centro Internacional para la Promoción de los Derechos Humanos,1.2,Judicial,45376000
+40,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,208,Agencia Nacional de Materiales Controlados,2.2,Seguridad Interior,216033000
+40,Ministerio de Justicia y Derechos Humanos,1,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,1.2,Judicial,3972539569
+40,Ministerio de Justicia y Derechos Humanos,1,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,1.3,Dirección Superior Ejecutiva,90379145
+40,Ministerio de Justicia y Derechos Humanos,1,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,2.3,Sistema Penal,2716650905
+40,Ministerio de Justicia y Derechos Humanos,1,Ministerio de Justicia y Derechos Humanos,0,Ministerio de Justicia y Derechos Humanos,3.4,Educación y Cultura,115136380
+40,Ministerio de Justicia y Derechos Humanos,2,Dirección Nacional del Servicio Penitenciario Federal,0,Dirección Nacional del Servicio Penitenciario Federal,2.3,Sistema Penal,23219968991
+40,Ministerio de Justicia y Derechos Humanos,2,Dirección Nacional del Servicio Penitenciario Federal,0,Dirección Nacional del Servicio Penitenciario Federal,3.4,Educación y Cultura,447860381
+40,Ministerio de Justicia y Derechos Humanos,8,Procuración del Tesoro de la Nación,0,Procuración del Tesoro de la Nación,1.2,Judicial,644050500
+41,Ministerio de Seguridad,0,Ministerio de Seguridad,250,"Caja de Retiros, Jubilaciones y Pensiones de la Policía Federal Argentina",3.3,Seguridad Social,98825894000
+41,Ministerio de Seguridad,1,Ministerio de Seguridad,0,Ministerio de Seguridad,2.2,Seguridad Interior,9780330239
+41,Ministerio de Seguridad,1,Ministerio de Seguridad,0,Ministerio de Seguridad,2.4,Inteligencia,360229223
+41,Ministerio de Seguridad,1,Ministerio de Seguridad,0,Ministerio de Seguridad,3.4,Educación y Cultura,338609538
+41,Ministerio de Seguridad,4,Policía Federal Argentina,0,Policía Federal Argentina,2.2,Seguridad Interior,39453196000
+41,Ministerio de Seguridad,4,Policía Federal Argentina,0,Policía Federal Argentina,2.4,Inteligencia,1815170000
+41,Ministerio de Seguridad,4,Policía Federal Argentina,0,Policía Federal Argentina,3.1,Salud,2806889000
+41,Ministerio de Seguridad,4,Policía Federal Argentina,0,Policía Federal Argentina,3.4,Educación y Cultura,2385857000
+41,Ministerio de Seguridad,5,Gendarmería Nacional,0,Gendarmería Nacional,2.2,Seguridad Interior,42656402261
+41,Ministerio de Seguridad,5,Gendarmería Nacional,0,Gendarmería Nacional,2.4,Inteligencia,1790932368
+41,Ministerio de Seguridad,5,Gendarmería Nacional,0,Gendarmería Nacional,3.1,Salud,2916266186
+41,Ministerio de Seguridad,5,Gendarmería Nacional,0,Gendarmería Nacional,3.4,Educación y Cultura,6861325185
+41,Ministerio de Seguridad,6,Prefectura Naval Argentina,0,Prefectura Naval Argentina,2.2,Seguridad Interior,27201838576
+41,Ministerio de Seguridad,6,Prefectura Naval Argentina,0,Prefectura Naval Argentina,2.4,Inteligencia,426723837
+41,Ministerio de Seguridad,6,Prefectura Naval Argentina,0,Prefectura Naval Argentina,3.1,Salud,1000900146
+41,Ministerio de Seguridad,6,Prefectura Naval Argentina,0,Prefectura Naval Argentina,3.4,Educación y Cultura,2859976503
+41,Ministerio de Seguridad,7,Policía de Seguridad Aeroportuaria,0,Policía de Seguridad Aeroportuaria,2.2,Seguridad Interior,5957869507
+41,Ministerio de Seguridad,7,Policía de Seguridad Aeroportuaria,0,Policía de Seguridad Aeroportuaria,3.4,Educación y Cultura,216078640
+45,Ministerio de Defensa,0,Ministerio de Defensa,450,Instituto Geográfico Nacional,3.5,Ciencia y Técnica,273934080
+45,Ministerio de Defensa,0,Ministerio de Defensa,452,Servicio Meteorológico Nacional,4.3,Transporte,1247987198
+45,Ministerio de Defensa,0,Ministerio de Defensa,470,Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares,3.3,Seguridad Social,88620103000
+45,Ministerio de Defensa,20,Ministerio de Defensa,0,Ministerio de Defensa,2.1,Defensa,5892747177
+45,Ministerio de Defensa,20,Ministerio de Defensa,0,Ministerio de Defensa,2.4,Inteligencia,66687320
+45,Ministerio de Defensa,20,Ministerio de Defensa,0,Ministerio de Defensa,3.4,Educación y Cultura,178535504
+45,Ministerio de Defensa,20,Ministerio de Defensa,0,Ministerio de Defensa,3.5,Ciencia y Técnica,591582000
+45,Ministerio de Defensa,21,Estado Mayor General del Ejército,0,Estado Mayor General del Ejército,2.1,Defensa,51099915935
+45,Ministerio de Defensa,21,Estado Mayor General del Ejército,0,Estado Mayor General del Ejército,2.4,Inteligencia,1057777939
+45,Ministerio de Defensa,21,Estado Mayor General del Ejército,0,Estado Mayor General del Ejército,3.1,Salud,7789710380
+45,Ministerio de Defensa,21,Estado Mayor General del Ejército,0,Estado Mayor General del Ejército,3.4,Educación y Cultura,10774622438
+45,Ministerio de Defensa,22,Estado Mayor General de la Armada,0,Estado Mayor General de la Armada,2.1,Defensa,28511129545
+45,Ministerio de Defensa,22,Estado Mayor General de la Armada,0,Estado Mayor General de la Armada,2.4,Inteligencia,514968092
+45,Ministerio de Defensa,22,Estado Mayor General de la Armada,0,Estado Mayor General de la Armada,3.1,Salud,3173537131
+45,Ministerio de Defensa,22,Estado Mayor General de la Armada,0,Estado Mayor General de la Armada,3.4,Educación y Cultura,6529150991
+45,Ministerio de Defensa,22,Estado Mayor General de la Armada,0,Estado Mayor General de la Armada,3.5,Ciencia y Técnica,32000
+45,Ministerio de Defensa,23,Estado Mayor General de la Fuerza Aérea,0,Estado Mayor General de la Fuerza Aérea,2.1,Defensa,26230541939
+45,Ministerio de Defensa,23,Estado Mayor General de la Fuerza Aérea,0,Estado Mayor General de la Fuerza Aérea,2.4,Inteligencia,558474046
+45,Ministerio de Defensa,23,Estado Mayor General de la Fuerza Aérea,0,Estado Mayor General de la Fuerza Aérea,3.1,Salud,3789862436
+45,Ministerio de Defensa,23,Estado Mayor General de la Fuerza Aérea,0,Estado Mayor General de la Fuerza Aérea,3.4,Educación y Cultura,5121758717
+45,Ministerio de Defensa,23,Estado Mayor General de la Fuerza Aérea,0,Estado Mayor General de la Fuerza Aérea,4.3,Transporte,1007268853
+45,Ministerio de Defensa,24,Estado Mayor Conjunto de las Fuerzas Armadas,0,Estado Mayor Conjunto de las Fuerzas Armadas,2.1,Defensa,1261104752
+45,Ministerio de Defensa,24,Estado Mayor Conjunto de las Fuerzas Armadas,0,Estado Mayor Conjunto de las Fuerzas Armadas,3.1,Salud,23023167
+45,Ministerio de Defensa,24,Estado Mayor Conjunto de las Fuerzas Armadas,0,Estado Mayor Conjunto de las Fuerzas Armadas,3.4,Educación y Cultura,104915863
+45,Ministerio de Defensa,24,Estado Mayor Conjunto de las Fuerzas Armadas,0,Estado Mayor Conjunto de las Fuerzas Armadas,3.5,Ciencia y Técnica,1724604458
+50,Ministerio de Economía,0,Ministerio de Economía,0,Ministerio de Economía,1.3,Dirección Superior Ejecutiva,3110326856
+50,Ministerio de Economía,0,Ministerio de Economía,0,Ministerio de Economía,1.6,Administración Fiscal,2608335074
+50,Ministerio de Economía,0,Ministerio de Economía,0,Ministerio de Economía,1.8,Información y Estadística Básicas,4350382678
+50,Ministerio de Economía,0,Ministerio de Economía,0,Ministerio de Economía,4.1,"Energía, Combustibles y Minería",582593319751
+50,Ministerio de Economía,0,Ministerio de Economía,105,Comisión Nacional de Energía Atómica,3.5,Ciencia y Técnica,18493839000
+50,Ministerio de Economía,0,Ministerio de Economía,602,Comisión Nacional de Valores,4.8,Seguros y Finanzas,636067000
+50,Ministerio de Economía,0,Ministerio de Economía,603,Superintendencia de Seguros de la Nación,4.8,Seguros y Finanzas,1034049002
+50,Ministerio de Economía,0,Ministerio de Economía,620,Tribunal Fiscal de la Nación,1.6,Administración Fiscal,442666000
+50,Ministerio de Economía,0,Ministerio de Economía,651,Ente Nacional Regulador del Gas,4.1,"Energía, Combustibles y Minería",2041202000
+50,Ministerio de Economía,0,Ministerio de Economía,652,Ente Nacional Regulador de la Electricidad,4.1,"Energía, Combustibles y Minería",758080160
+50,Ministerio de Economía,0,Ministerio de Economía,670,Unidad de Infor. Financiera,1.2,Judicial,573191000
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,4.1,"Energía, Combustibles y Minería",456841371
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,4.6,Industria,116790996606
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,4.7,"Comercio, Turismo y Otros Servicios",3493687886
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,114,Instituto Nacional de Asociativismo y Economía Social (INAES),3.2,Promoción y Asistencia Social,2492648000
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,608,Instituto Nacional de Tecnología Industrial,3.5,Ciencia y Técnica,5039003504
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,608,Instituto Nacional de Tecnología Industrial,5.1,Servicio de la Deuda Pública,260000
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,622,Instituto Nacional de la Propiedad Industrial,4.6,Industria,923190000
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,624,Servicio Geológico Minero Argentino,3.5,Ciencia y Técnica,717718135
+51,Ministerio de Desarrollo Productivo,0,Ministerio de Desarrollo Productivo,624,Servicio Geológico Minero Argentino,4.1,"Energía, Combustibles y Minería",22971865
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",1.3,Dirección Superior Ejecutiva,1721804734
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",4.5,Agricultura,10167422072
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",606,Instituto Nacional de Tecnología Agropecuaria,3.5,Ciencia y Técnica,11287257830
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",607,Instituto Nacional de Investigación y Desarrollo Pesquero,4.5,Agricultura,1022955000
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",609,Instituto Nacional de Vitivinicultura,4.6,Industria,688356000
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",609,Instituto Nacional de Vitivinicultura,5.1,Servicio de la Deuda Pública,14068629
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",614,Instituto Nacional de Semillas,4.5,Agricultura,344933000
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",623,Servicio Nacional de Sanidad y Calidad Agroalimentaria,4.5,Agricultura,10426587745
+52,"Ministerio de Agricultura, Ganadería y Pesca",0,"Ministerio de Agricultura, Ganadería y Pesca",623,Servicio Nacional de Sanidad y Calidad Agroalimentaria,5.1,Servicio de la Deuda Pública,186036454
+53,Ministerio de Turismo y Deportes,0,Ministerio de Turismo y Deportes,0,Ministerio de Turismo y Deportes,3.4,Educación y Cultura,3112506000
+53,Ministerio de Turismo y Deportes,0,Ministerio de Turismo y Deportes,0,Ministerio de Turismo y Deportes,4.7,"Comercio, Turismo y Otros Servicios",5397227048
+53,Ministerio de Turismo y Deportes,0,Ministerio de Turismo y Deportes,119,Instituto Nacional de Promoción Turística,4.7,"Comercio, Turismo y Otros Servicios",1485939000
+57,Ministerio de Transporte,0,Ministerio de Transporte,0,Ministerio de Transporte,4.3,Transporte,172716594340
+57,Ministerio de Transporte,0,Ministerio de Transporte,203,Agencia Nacional de Seguridad Vial,2.2,Seguridad Interior,1087982000
+57,Ministerio de Transporte,0,Ministerio de Transporte,661,Comisión Nacional de Regulación de Transporte,4.3,Transporte,1654068050
+57,Ministerio de Transporte,0,Ministerio de Transporte,664,Organismo Regulador del Sistema Nacional de Aeropuertos,4.3,Transporte,614061190
+57,Ministerio de Transporte,0,Ministerio de Transporte,669,Administración Nacional de Aviación Civil,4.3,Transporte,3195096707
+57,Ministerio de Transporte,0,Ministerio de Transporte,671,Junta de Seguridad en el Transporte,4.3,Transporte,579900000
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,1.3,Dirección Superior Ejecutiva,1927324545
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,1.5,Relaciones Interiores,250567616
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,2.3,Sistema Penal,1651402882
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.1,Salud,13480110307
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.2,Promoción y Asistencia Social,1256739884
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.4,Educación y Cultura,7559676732
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.5,Ciencia y Técnica,77226677
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.7,Vivienda y Urbanismo,32501768716
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,3.8,Agua Potable y Alcantarillado,39534064251
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,4.3,Transporte,6996233500
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,4.4,Ecología y Medio Ambiente,2708583416
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,4.7,"Comercio, Turismo y Otros Servicios",151500000
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,108,Instituto Nacional del Agua,3.5,Ciencia y Técnica,357868340
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,604,Dirección Nacional de Vialidad,4.3,Transporte,115207644777
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,604,Dirección Nacional de Vialidad,5.1,Servicio de la Deuda Pública,191759051
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,612,Tribunal de Tasaciones de la Nación,1.6,Administración Fiscal,126740000
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,613,Ente Nacional de Obras Hídricas de Saneamiento,3.8,Agua Potable y Alcantarillado,29895590970
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,613,Ente Nacional de Obras Hídricas de Saneamiento,5.1,Servicio de la Deuda Pública,776812650
+64,Ministerio de Obras Públicas,0,Ministerio de Obras Públicas,656,Organismo Regulador de Seguridad de Presas,4.1,"Energía, Combustibles y Minería",162277000
+65,Ministerio de Desarrollo Territorial y Hábitat,0,Ministerio de Desarrollo Territorial y Hábitat,0,Ministerio de Desarrollo Territorial y Hábitat,3.7,Vivienda y Urbanismo,119023372791
+70,Ministerio de Educación,0,Ministerio de Educación,0,Ministerio de Educación,3.1,Salud,4628323622
+70,Ministerio de Educación,0,Ministerio de Educación,0,Ministerio de Educación,3.4,Educación y Cultura,389909336397
+70,Ministerio de Educación,0,Ministerio de Educación,0,Ministerio de Educación,3.5,Ciencia y Técnica,1844315913
+70,Ministerio de Educación,0,Ministerio de Educación,101,Fundación Miguel Lillo,3.5,Ciencia y Técnica,481000000
+70,Ministerio de Educación,0,Ministerio de Educación,804,Comisión Nacional de Evaluación y Acreditación Universitaria,3.4,Educación y Cultura,305485000
+71,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",3.5,Ciencia y Técnica,11665935624
+71,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",103,Consejo Nacional de Investigaciones Científicas y Técnicas,3.5,Ciencia y Técnica,28205392238
+71,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",106,Comisión Nacional de Actividades Espaciales,3.5,Ciencia y Técnica,7447000200
+71,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",106,Comisión Nacional de Actividades Espaciales,5.1,Servicio de la Deuda Pública,11000000
+71,"Ministerio de Ciencia, Tecnología e Innovación",0,"Ministerio de Ciencia, Tecnología e Innovación",121,Banco Nacional de Datos Genéticos (BNDG),3.5,Ciencia y Técnica,109063803
+72,Ministerio de Cultura,0,Ministerio de Cultura,0,Ministerio de Cultura,3.4,Educación y Cultura,6145989000
+72,Ministerio de Cultura,0,Ministerio de Cultura,113,Teatro Nacional Cervantes,3.4,Educación y Cultura,567171104
+72,Ministerio de Cultura,0,Ministerio de Cultura,116,"Biblioteca Nacional ""Doctor Mariano Moreno""",3.4,Educación y Cultura,1186179000
+72,Ministerio de Cultura,0,Ministerio de Cultura,117,Instituto Nacional del Teatro,3.4,Educación y Cultura,897787500
+72,Ministerio de Cultura,0,Ministerio de Cultura,802,Fondo Nacional de las Artes,3.4,Educación y Cultura,337355000
+75,"Ministerio de Trabajo, Empleo y Seguridad Social",0,"Ministerio de Trabajo, Empleo y Seguridad Social",0,"Ministerio de Trabajo, Empleo y Seguridad Social",3.6,Trabajo,17154202000
+75,"Ministerio de Trabajo, Empleo y Seguridad Social",0,"Ministerio de Trabajo, Empleo y Seguridad Social",850,Administración Nacional de la Seguridad Social,3.1,Salud,108547684702
+75,"Ministerio de Trabajo, Empleo y Seguridad Social",0,"Ministerio de Trabajo, Empleo y Seguridad Social",850,Administración Nacional de la Seguridad Social,3.3,Seguridad Social,3567264552510
+75,"Ministerio de Trabajo, Empleo y Seguridad Social",0,"Ministerio de Trabajo, Empleo y Seguridad Social",852,Superintendencia de Riesgos del Trabajo,3.6,Trabajo,791903899
+80,Ministerio de Salud,0,Ministerio de Salud,0,Ministerio de Salud,3.1,Salud,139610832135
+80,Ministerio de Salud,0,Ministerio de Salud,902,"Hospital Nacional en Red Especializado en Salud Mental y Adicciones ""Licenciada Laura Bonaparte""",3.1,Salud,737122101
+80,Ministerio de Salud,0,Ministerio de Salud,903,Hospital Nacional Dr. Baldomero Sommer,3.1,Salud,2044863112
+80,Ministerio de Salud,0,Ministerio de Salud,904,"Administración Nacional de Medicamentos, Alimentos y Tecnología Médica",3.1,Salud,1944354000
+80,Ministerio de Salud,0,Ministerio de Salud,905,Instituto Nacional Central Único Coordinador de Ablación e Implante,3.1,Salud,2213194176
+80,Ministerio de Salud,0,Ministerio de Salud,906,"Administración Nacional de Laboratorios e Institutos de Salud ""Dr. Carlos Malbrán""",3.5,Ciencia y Técnica,3586565816
+80,Ministerio de Salud,0,Ministerio de Salud,906,"Administración Nacional de Laboratorios e Institutos de Salud ""Dr. Carlos Malbrán""",5.1,Servicio de la Deuda Pública,24000
+80,Ministerio de Salud,0,Ministerio de Salud,908,"Hospital Nacional ""Prof. Alejandro A. Posadas""",3.1,Salud,8827303756
+80,Ministerio de Salud,0,Ministerio de Salud,909,"Colonia Nacional ""Dr. Manuel A. Montes de Oca",3.1,Salud,1592522040
+80,Ministerio de Salud,0,Ministerio de Salud,910,"Instituto Nacional de Rehabilitación Psicofísica del Sur ""Dr. Juan Otimio Tesone""",3.1,Salud,671857121
+80,Ministerio de Salud,0,Ministerio de Salud,914,Superintendencia de Servicios de Salud,3.1,Salud,37130882953
+80,Ministerio de Salud,0,Ministerio de Salud,915,Instituto Nacional del Cáncer (INC),3.1,Salud,158412144
+80,Ministerio de Salud,0,Ministerio de Salud,916,Agencia Nacional de Laboratorios Públicos (ANLAP),3.1,Salud,274474186
+81,Ministerio de Ambiente y Desarrollo Sostenible,0,Ministerio de Ambiente y Desarrollo Sostenible,0,Ministerio de Ambiente y Desarrollo Sostenible,4.4,Ecología y Medio Ambiente,6483063000
+81,Ministerio de Ambiente y Desarrollo Sostenible,0,Ministerio de Ambiente y Desarrollo Sostenible,107,Administración de Parques Nacionales,3.3,Seguridad Social,139646000
+81,Ministerio de Ambiente y Desarrollo Sostenible,0,Ministerio de Ambiente y Desarrollo Sostenible,107,Administración de Parques Nacionales,4.4,Ecología y Medio Ambiente,2976676316
+85,Ministerio de Desarrollo Social,0,Ministerio de Desarrollo Social,0,Ministerio de Desarrollo Social,3.2,Promoción y Asistencia Social,252626198315
+86,"Ministerio de las Mujeres, Géneros y Diversidad",0,"Ministerio de las Mujeres, Géneros y Diversidad",0,"Ministerio de las Mujeres, Géneros y Diversidad",3.2,Promoción y Asistencia Social,6204800623
+90,Servicio de la Deuda Pública,0,Servicio de la Deuda Pública,0,Servicio de la Deuda Pública,5.1,Servicio de la Deuda Pública,663859000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,1.2,Judicial,8020000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,1.4,Relaciones Exteriores,28707055000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,1.5,Relaciones Interiores,120064121530
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,1.6,Administración Fiscal,2018138000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,1.7,Control de la Gestión Pública,500000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,2.1,Defensa,5000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,2.2,Seguridad Interior,19000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,2.3,Sistema Penal,2000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,3.2,Promoción y Asistencia Social,33000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,3.3,Seguridad Social,27578000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,3.4,Educación y Cultura,43063622000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,3.5,Ciencia y Técnica,3000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,3.8,Agua Potable y Alcantarillado,69416849585
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.1,"Energía, Combustibles y Minería",94597900000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.2,Comunicaciones,19744716000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.3,Transporte,154974164700
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.4,Ecología y Medio Ambiente,11353000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.5,Agricultura,22000000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.6,Industria,3518962000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.7,"Comercio, Turismo y Otros Servicios",22500000000
+91,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,0,Obligaciones a Cargo del Tesoro,4.8,Seguros y Finanzas,3147200000
